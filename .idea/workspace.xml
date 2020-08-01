@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="225fb78c-d926-4954-babd-d0b01f3fc0ee" name="Default Changelist" comment="第一次尝试提交到本地仓库">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/anyglobe/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/anyglobe/hello.java" afterDir="false" />
-    </list>
+    <list default="true" id="225fb78c-d926-4954-babd-d0b01f3fc0ee" name="Default Changelist" comment="第一次尝试提交到本地仓库" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +20,7 @@
   <component name="Git.Settings">
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1fUbLFRBfAAWP2TkLdVGTClUDDv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,7 +36,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
     <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -76,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596275561366</updated>
-      <workItem from="1596275562520" duration="3375000" />
+      <workItem from="1596275562520" duration="3826000" />
     </task>
     <task id="LOCAL-00001" summary="第一次尝试提交到本地仓库">
       <created>1596278288788</created>
@@ -99,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596278615252</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第一次尝试提交到本地仓库">
+      <created>1596278971001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596278971001</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,17 +166,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1402" y="262" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278139589" />
-    <state x="905" y="206" key="SettingsEditor" timestamp="1596278793049">
+    <state x="905" y="206" key="SettingsEditor" timestamp="1596279389119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="905" y="206" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278793049" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596278923321">
+    <state x="905" y="206" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596279389119" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596278962237">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278923321" />
-    <state x="861" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596278916775">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278962237" />
+    <state x="861" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596279392242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="861" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278916775" />
+    <state x="861" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596279392242" />
   </component>
 </project>
