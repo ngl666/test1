@@ -8,7 +8,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="225fb78c-d926-4954-babd-d0b01f3fc0ee" name="Default Changelist" comment="第一次尝试提交到本地仓库" />
+    <list default="true" id="225fb78c-d926-4954-babd-d0b01f3fc0ee" name="Default Changelist" comment="第一次尝试提交到本地仓库">
+      <change beforePath="$PROJECT_DIR$/src/cn/anyglobe/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/anyglobe/hello.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596275561366</updated>
-      <workItem from="1596275562520" duration="4288000" />
+      <workItem from="1596275562520" duration="4582000" />
     </task>
     <task id="LOCAL-00001" summary="第一次尝试提交到本地仓库">
       <created>1596278288788</created>
@@ -118,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596279608330</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第一次尝试提交到本地仓库">
+      <created>1596280126625</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596280126626</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
