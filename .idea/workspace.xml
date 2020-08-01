@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="225fb78c-d926-4954-babd-d0b01f3fc0ee" name="Default Changelist" comment="第一次尝试提交到本地仓库">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/anyglobe/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/anyglobe/hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596275561366</updated>
-      <workItem from="1596275562520" duration="2886000" />
+      <workItem from="1596275562520" duration="3375000" />
     </task>
     <task id="LOCAL-00001" summary="第一次尝试提交到本地仓库">
       <created>1596278288788</created>
@@ -84,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596278288788</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次尝试提交到本地仓库">
+      <created>1596278547906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596278547906</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一次尝试提交到本地仓库">
+      <created>1596278615252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596278615252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +118,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1184" y="316" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278043995" />
+    <state x="761" y="468" key="Github.ShareDialog" timestamp="1596278854375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="468" key="Github.ShareDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278854375" />
     <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1596278336039">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -139,17 +158,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1402" y="262" key="RollbackChangesDialog/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278139589" />
-    <state x="905" y="206" key="SettingsEditor" timestamp="1596278450561">
+    <state x="905" y="206" key="SettingsEditor" timestamp="1596278793049">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="905" y="206" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278450561" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596278353472">
+    <state x="905" y="206" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278793049" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596278923321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278353472" />
-    <state x="861" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596277028755">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278923321" />
+    <state x="861" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596278916775">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="861" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596277028755" />
+    <state x="861" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278916775" />
   </component>
 </project>
