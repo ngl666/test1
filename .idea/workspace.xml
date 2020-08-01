@@ -3,6 +3,10 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="225fb78c-d926-4954-babd-d0b01f3fc0ee" name="Default Changelist" comment="第一次尝试提交到本地仓库" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596275561366</updated>
-      <workItem from="1596275562520" duration="3826000" />
+      <workItem from="1596275562520" duration="4288000" />
     </task>
     <task id="LOCAL-00001" summary="第一次尝试提交到本地仓库">
       <created>1596278288788</created>
@@ -107,11 +111,41 @@
       <option name="project" value="LOCAL" />
       <updated>1596278971001</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一次尝试提交到本地仓库">
+      <created>1596279608330</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596279608330</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../../Idea_project1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次尝试提交到本地仓库" />
@@ -122,10 +156,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596275587935" />
-    <state x="1184" y="316" key="FileChooserDialogImpl" timestamp="1596278043995">
+    <state x="1184" y="316" key="FileChooserDialogImpl" timestamp="1596279448854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1184" y="316" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278043995" />
+    <state x="1184" y="316" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596279448854" />
     <state x="761" y="468" key="Github.ShareDialog" timestamp="1596278854375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -170,10 +204,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="905" y="206" key="SettingsEditor/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596279389119" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596278962237">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596279623582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596278962237" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1440.860@0.0.1920.1040" timestamp="1596279623582" />
     <state x="861" y="456" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596279392242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
